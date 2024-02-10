@@ -12,7 +12,7 @@ Plajta byl nápad jednoho z našich kolegů, spojili jsme dohromady názvy `Plze
 4. Aimtec hackathon 2023
 5. CZ+CH hackathon 2023 - [Rework Rhétských drah](https://github.com/Plajta/RhaetianRailwayRework), 4. místo
 6. Leuze hackathon 2023
-7. AI/ML hackathon 2023 - [Detektor štěpných a tvárných lomů](https://github.com/Plajta/DetektorLomu)
+7. AI/ML hackathon 2023 - [Detektor štěpných a tvárných lomů](https://github.com/Plajta/DetektorLomu), 1. místo 
 8. CO-hackathon 2023
 9. NKÚ hackathon 2024
 
