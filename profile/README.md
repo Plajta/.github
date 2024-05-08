@@ -15,7 +15,7 @@ Plajta byl nápad jednoho z našich kolegů, spojili jsme dohromady názvy `Plze
 7. AI/ML hackathon 2023 - [Detektor štěpných a tvárných lomů](https://github.com/Plajta/DetektorLomu), 1. místo 
 8. CO-hackathon 2023
 9. NKÚ hackathon 2024
-10. Aimtec hackathon 2024 - [Plajtstik](https://github.com/Plajta/plajstik), 3. místo
+10. Aimtec hackathon 2024 - [Plajstik](https://github.com/Plajta/plajstik), 3. místo
 
 ### Rozpracované projekty
 - **Dronogeddon** - Programování autonomního řízení DJI Tello drona (pod záštitou EUROSOFTWARE s.r.o.)
