@@ -19,5 +19,5 @@ Plajta byl nápad jednoho z našich kolegů, spojili jsme dohromady názvy `Plze
 
 ### Rozpracované projekty
 - **Dronogeddon** - Programování autonomního řízení DJI Tello drona (pod záštitou EUROSOFTWARE s.r.o.)
-- **PlzenskyPoharPravdy** - Funkční nuke tester a generátor náhodných faktů využitím otevřených dat z ČSÚ a NKODu (web: [plajta.vesek.eu](https://plajta.vesek.eu))
+- **PlzenskyPoharPravdy** - Funkční nuke tester a generátor náhodných faktů využitím otevřených dat z ČSÚ a NKODu (web: [ppp.plajta.eu](https://ppp.plajta.eu))
 - **Plajstick** - Jednoruční joystick pro handicapované osoby
