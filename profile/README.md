@@ -1,6 +1,7 @@
 ## Plajta
 ### Intro
 Jsme tým několika středoškolských studentů co se šíleně nudí a tak jezdíme na spoustu hackathonů (a ne jenom kvůli jídlu!). Máme rozpracovaných i pár projektů a dokonce se nám povedlo nějaké ty hackathony vyhrát.
+Náš web: [plajta.eu](https://plajta.eu/)
 
 ### Jak jsme se dostali k našemu jménu?
 Plajta byl nápad jednoho z našich kolegů, spojili jsme dohromady názvy `Plzeň` (jsme z plzně) a `Krajta` (Programujeme zejména v Pythonu). Tohle jméno se s náma už nějakou tu dobu nese :)
@@ -17,8 +18,10 @@ Plajta byl nápad jednoho z našich kolegů, spojili jsme dohromady názvy `Plze
 9. NKÚ hackathon 2024 - [PPP](https://plajta.vesek.eu/)
 10. Aimtec hackathon 2024 - [Plajstik](https://github.com/Plajta/plajstik), **3. místo**
 11. Mobility hackathon 2025 - [Dranyk](https://github.com/Plajta/Dranyk), **1. místo**
+12. Aimtec hackathon 2025 - [Sisyphus](https://github.com/Plajta/Sisyphus), **1. místo**
 
 ### Rozpracované projekty
 - **Dronogeddon** - Programování autonomního řízení DJI Tello drona (pod záštitou EUROSOFTWARE s.r.o.)
 - **PlzenskyPoharPravdy** - Funkční nuke tester a generátor náhodných faktů využitím otevřených dat z ČSÚ a NKODu (web: [ppp.plajta.eu](https://ppp.plajta.eu))
 - **Plajstik** - Jednoruční joystick pro handicapované osoby
+- **Sisyphus** - Komunikační nástroj pro autistické dět, který by zjednodušoval komunikaci s okolím
