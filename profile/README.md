@@ -21,7 +21,7 @@ Plajta byl nápad jednoho z našich kolegů, spojili jsme dohromady názvy `Plze
 12. Aimtec hackathon 2025 - [Sisyphus](https://github.com/Plajta/Sisyphus), **1. místo**
 
 ### Rozpracované projekty
-- **Dronogeddon** - Programování autonomního řízení DJI Tello drona (pod záštitou EUROSOFTWARE s.r.o.)
-- **PlzenskyPoharPravdy** - Funkční nuke tester a generátor náhodných faktů využitím otevřených dat z ČSÚ a NKODu (web: [ppp.plajta.eu](https://ppp.plajta.eu))
-- **Plajstik** - Jednoruční joystick pro handicapované osoby
-- **Sisyphus** - Komunikační nástroj pro autistické dět, který by zjednodušoval komunikaci s okolím
+- **Dronogeddon** - Programování autonomního řízení DJI Tello drona ([ROS verze](https://github.com/Plajta/Dronogeddon-ros), [Deprecated verze](https://github.com/Plajta/Dronogeddon))
+- [PlzenskyPoharPravdy](https://github.com/Plajta/PlzenskyPoharPravdy) - Funkční nuke tester a generátor náhodných faktů využitím otevřených dat z ČSÚ a NKODu (web: [ppp.plajta.eu](https://ppp.plajta.eu))
+- [Plajstik](https://github.com/Plajta/Plajstik) - Jednoruční joystick pro handicapované osoby
+- [Sisyphus](https://github.com/Plajta/Sisyphus) - Komunikační nástroj pro autistické dět, který by zjednodušoval komunikaci s okolím
