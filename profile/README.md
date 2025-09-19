@@ -3,9 +3,6 @@
 Jsme tým několika středoškolských studentů co se šíleně nudí a tak jezdíme na spoustu hackathonů (a ne jenom kvůli jídlu!). Máme rozpracovaných i pár projektů a dokonce se nám povedlo nějaké ty hackathony vyhrát.
 Náš web: [plajta.eu](https://plajta.eu/)
 
-### Jak jsme se dostali k našemu jménu?
-Plajta byl nápad jednoho z našich kolegů, spojili jsme dohromady názvy `Plzeň` (jsme z plzně) a `Krajta` (Programujeme zejména v Pythonu). Tohle jméno se s náma už nějakou tu dobu nese :)
-
 ### Hackathony
 1. Aimtec hackathon 2022 - [Trenažer Fakírů](https://github.com/Plajta/TrenazerFakiru), **2. místo v hlasování poroty, 1. místo v hlasování publika**
 2. CO-hackathon 2022 - [QRFronta](https://github.com/Plajta/QRFronta)
@@ -25,3 +22,4 @@ Plajta byl nápad jednoho z našich kolegů, spojili jsme dohromady názvy `Plze
 - [PlzenskyPoharPravdy](https://github.com/Plajta/PlzenskyPoharPravdy) - Funkční nuke tester a generátor náhodných faktů využitím otevřených dat z ČSÚ a NKODu (web: [ppp.plajta.eu](https://ppp.plajta.eu))
 - [Plajstik](https://github.com/Plajta/Plajstik) - Jednoruční joystick pro handicapované osoby
 - [Sisyphus](https://github.com/Plajta/Sisyphus) - Komunikační nástroj pro autistické děti, který by zjednodušoval jejich komunikaci s okolím
+- **PlajTime** - Hodinky, děláme je už dlouho, ale až po roce nás napadlo že "publishnem to až to bude ready" byl stupidní nápad
