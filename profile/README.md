@@ -15,11 +15,11 @@ Náš web: [plajta.eu](https://plajta.eu/)
 9. NKÚ hackathon 2024 - [PPP](https://plajta.vesek.eu/)
 10. Aimtec hackathon 2024 - [Plajstik](https://github.com/Plajta/plajstik), **3. místo**
 11. Mobility hackathon 2025 - [Dranyk](https://github.com/Plajta/Dranyk), **1. místo**
-12. Aimtec hackathon 2025 - [Sisyphus](https://github.com/Plajta/Sisyphus), **1. místo**
+12. Aimtec hackathon 2025 - [Sisyphus](https://github.com/Plajta/sisyphus), **1. místo** - [orig. verze z hackathonu](https://github.com/Plajta/sisyphus-legacy)
 
 ### Rozpracované projekty
 - **Dronogeddon** - Programování autonomního řízení DJI Tello drona ([ROS verze](https://github.com/Plajta/Dronogeddon-ros), [Deprecated verze](https://github.com/Plajta/Dronogeddon))
 - [PlzenskyPoharPravdy](https://github.com/Plajta/PlzenskyPoharPravdy) - Funkční nuke tester a generátor náhodných faktů využitím otevřených dat z ČSÚ a NKODu (web: [ppp.plajta.eu](https://ppp.plajta.eu))
 - [Plajstik](https://github.com/Plajta/Plajstik) - Jednoruční joystick pro handicapované osoby
-- [Sisyphus](https://github.com/Plajta/Sisyphus) - Komunikační nástroj pro autistické děti, který by zjednodušoval jejich komunikaci s okolím
+- [Sisyphus](https://github.com/Plajta/sisyphus) - Komunikační nástroj pro autistické děti, šlouží k zjednodušení jejich komunikace
 - **PlajTime** - Hodinky, děláme je už dlouho, ale až po roce nás napadlo že "publishnem to až to bude ready" byl stupidní nápad
