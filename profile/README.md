@@ -16,7 +16,9 @@ Náš web: [plajta.eu](https://plajta.eu/)
 10. Aimtec hackathon 2024 - [Plajstik](https://github.com/Plajta/plajstik), **3. místo**
 11. Mobility hackathon 2025 - [Dranyk](https://github.com/Plajta/Dranyk), **1. místo**
 12. Aimtec hackathon 2025 - [Sisyphus](https://github.com/Plajta/sisyphus), **1. místo** - [orig. verze z hackathonu](https://github.com/Plajta/sisyphus-legacy)
-13. HackKosice 2026 - [Oezys](https://github.com/Plajta/Oezys) **Vítěz celého hackathonu**, **1. místo z kategorie UJPŠ challenge**
+13. Mobility hackathon 2025 - [DUMBASS](https://github.com/Plajta/DUMBASS)
+14. Aimtec hackathon 2026 - [Prometheus](https://github.com/Plajta/prometheus-fw)
+15. HackKosice 2026 - [Oezys](https://github.com/Plajta/Oezys) **Vítěz celého hackathonu**, **1. místo z kategorie UJPŠ challenge**
 
 ### Rozpracované projekty
 - **Dronogeddon** - Programování autonomního řízení DJI Tello drona ([ROS verze](https://github.com/Plajta/Dronogeddon-ros), [Deprecated verze](https://github.com/Plajta/Dronogeddon))
