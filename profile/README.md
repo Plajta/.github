@@ -5,8 +5,8 @@ Náš web: [plajta.eu](https://plajta.eu/)
 
 ### Hackathony
 1. Aimtec hackathon 2022 - [Trenažer Fakírů](https://github.com/Plajta/TrenazerFakiru), **2. místo v hlasování poroty, 1. místo v hlasování publika**
-2. CO-hackathon 2022 - [QRFronta](https://github.com/Plajta/QRFronta)
-3. G+SOŠ hackathon 2022 - [Dronogeddon](https://github.com/Plajta/Dronogeddon), **1. místo**
+2. G+SOŠ hackathon 2022 - [Dronogeddon](https://github.com/Plajta/Dronogeddon), **1. místo**
+3. CO-hackathon 2022 - [QRFronta](https://github.com/Plajta/QRFronta)
 4. Aimtec hackathon 2023 - [DomaNav](https://github.com/Plajta/DomaNav)
 5. CZ+CH hackathon 2023 - [Rework Rhétských drah](https://github.com/Plajta/RhaetianRailwayRework), **4. místo**
 6. Leuze hackathon 2023 - [RobotControl](https://github.com/Plajta/RobotControl)
